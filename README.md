@@ -116,4 +116,4 @@ Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCkhTgPX
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/Sonu_k1/
 [Medium]: https://Sonu-k.medium.com/
-[Facebook]: https://www.facebook.com/Sonu.kumarsah.3344/
+[Facebook]: https://www.facebook.com/profile.php?id=100038782760709

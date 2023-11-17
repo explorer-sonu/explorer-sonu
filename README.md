@@ -112,7 +112,7 @@ Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCkhTgPX
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 [twitter]: https://twitter.com/Sonuanand01
-[youtube]: https://www.youtube.com/channel/UCkhTgPXFcuUbbMzEjhQSFXg
+[youtube]: https://www.youtube.com/channel/UC2UT-qm3hoTJmtI-Y360pNA
 [Hashnode]: https://hashnode.com/@Sonuk
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/Sonu_k1/

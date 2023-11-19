@@ -116,5 +116,5 @@ Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCkhTgPX
 [Hashnode]: https://hashnode.com/@Sonuk
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/Sonu_k1/
-[Medium]: https://Sonu-k.medium.com/
+[Medium]: https://medium.com/@ssah6477
 [Facebook]: https://www.facebook.com/profile.php?id=100038782760709

@@ -1,5 +1,5 @@
 # [Sonu Kumar Sah](https://ashu-cybertron.github.io)
- DevOps | Hybrid Cloud | Flutter | Ansible | Kubernetes | Terraform | Java | Python | C++ | HTML | CSS | ML 
+ Full Satck Web Development | HTML | CSS | Javascript | React Js | Node Js | MongoDB | C | C++ | Python  | AWS
  <!--
  <img src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/github-skyline.jpg"/>
 

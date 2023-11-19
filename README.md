@@ -111,7 +111,7 @@ Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCkhTgPX
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-[twitter]: https://twitter.com/Sonuanand01
+[twitter]: //https://twitter.com/Sonuanand01
 [youtube]: https://www.youtube.com/channel/UC2UT-qm3hoTJmtI-Y360pNA
 [Hashnode]: https://hashnode.com/@Sonuk
 [gmail]: https://gmail.com

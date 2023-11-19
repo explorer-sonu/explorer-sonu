@@ -89,7 +89,7 @@ You can find my blogs at my [Website](https://techsfortalk.me).
 
 
 ### The Developer Dictionary 🌱
-Check out my latest videos on [YouTube](https://www.youtube.com/channel/UCkhTgPXFcuUbbMzEjhQSFXg):
+Check out my latest videos on [YouTube](https://www.youtube.com/channel/UC2UT-qm3hoTJmtI-Y360pNA):
 
 
  <details>

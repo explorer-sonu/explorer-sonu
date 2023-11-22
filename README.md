@@ -65,19 +65,17 @@
 <hr />
 
 
-* DevOps Engineer at TeqFocus.
-* Aviatrix Certified Engineer.
-* Primary coding language: Java.
-* I’m currently working on my [portfolio](https://Sonuk.vision).
-* I am certified in Docker
+* Full Stack Developer.
+* Primary coding language: C.
+* I am certified in React
 * I'm looking to collaborate on Open source projects.
 * Competitive Programmer 
-🔭 I’m currently working on : Java , Python, Docker , Kubernetes , Jenkins , AWS , GCP , FLutter , Ansible ,  <br>
+🔭 I’m currently working on : HTML , CSS , Bootstrap , Javascript , Python , React , Nodejs , MongoDB , AWS , C++  <br>
 🌱 I’m currently learning :  Web development , Ansible , Flutter .<br>
 👯 I’m looking to collaborate on : <br>*/
 🤔 I’m looking for help with : new Job / Internship opportunity<br>
-💬 Ask me about : DEvOps , Cloud , Machine Learning ,  Ansible  , Flutter & anything, I'll be happy to help<br>
-⚡ Fun fact: ... COding , Reading , Guitar , Chess , Singing , Listening music.<br>
+💬 Ask me about : Web Development , HTML , CSS ,  Javascript , React , Nodejs , MongoDB , AWS ,  I'll be happy to help<br>
+⚡ Fun fact: ... COding , Reading , Swimming , Singing , Listening music.<br>
 * 😄 Pronouns: He/him
 * Join my [Discord server](https://discord.gg/KAcCCUXqTY) | [Telegram Channel](https://t.me/techsfortalk)
 * 🏠 Hogwarts House: Griffindor

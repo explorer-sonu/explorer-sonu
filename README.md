@@ -77,7 +77,7 @@
 💬 Ask me about : Web Development , HTML , CSS ,  Javascript , React , Nodejs , MongoDB , AWS ,  I'll be happy to help<br>
 ⚡ Fun fact: ... COding , Reading , Swimming , Singing , Listening music.<br>
 * 😄 Pronouns: He/him
-* Join my [Discord server](https://discord.gg/KAcCCUXqTY) | [Telegram Channel](https://t.me/techsfortalk)
+* Join my [Discord server]() | [Telegram Channel]()
 * 🏠 Hogwarts House: Griffindor
 
 

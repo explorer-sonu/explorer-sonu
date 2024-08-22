@@ -2,7 +2,7 @@
  Full Satck Web Development | HTML | CSS | Javascript | React Js | Node Js | MongoDB | C | C++ | Python  | AWS
 
 <p align="center">
-  <b><i>Let's connect! Find me on the web.</i></b>
+<b><i>Let's connect! Find me on the web.</i></b>
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 

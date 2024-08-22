@@ -1,55 +1,5 @@
 # [Sonu Kumar Sah]( https://explorer-sonu.github.io/)
  Full Satck Web Development | HTML | CSS | Javascript | React Js | Node Js | MongoDB | C | C++ | Python  | AWS
- 
- <img src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/github-skyline.jpg"/>
-
- ## [Earned Badges](https://www.qwiklabs.com/public_profiles/a9509ee2-4bc1-4a29-802d-cb18e02a2d36)
- <table>
- <tr>
-     <td>
-       <img height="215" width="250" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/aviatrix-certified-engineer-multi-cloud-network-associate%20(3).png"/>
-    </td>
-    <td>
-        <img height="200" width="200" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/introduction-to-cybersecurity.png"/>
-    </td>
-    <td>
-      <img height="200" width="200" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/machine-learning-with-python-level-1.png"/>
-    </td>
-    <td>
-      <img height="200" width="200" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/data-science-foundations-level-1.png"/>
-    </td>
- </tr>
- <tr>
-    <td>&emsp;&emsp;
-      <img height="200" width="200" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/python-for-data-science.png"/>
-    </td>
-    <td>
-      <img height="200" width="200" src="https://cdn.qwiklabs.com/t0mAYb9dBpyuPWwHBFQSo2aYPkq3SwYA3%2FaR51UWM94%3D"/>
-    </td>
-  <td>
-      <img height="200" width="200" src="https://cdn.qwiklabs.com/PU2aesDs1f6vq2e%2FgSWvkIn%2Bq8i3yQYu3CTj3S9pjKI%3D"/>
-    </td>
-    <td>
-      <img height="200" width="200"" src="https://cdn.qwiklabs.com/81BP4Qgr%2Br7CQ%2BsKsLCyFO2SRnbWSpE40gBfjP%2BelYk%3D"/>
-    </td>
- </tr>
- <tr>
-    <td>&emsp;&emsp;
-      <img height="200" width="200"" src="https://github.com/ashu-cybertron/ashu-cybertron/blob/main/introduction-to-iot.png"/>
-    </td>
-    <td>
-      <img height="200" width="200" src="https://cdn.qwiklabs.com/Ry5LS6MVOIz7HfXIfPPajYsPjV7hlCEIXAwcccFGh%2F8%3D"/>
-    </td>
-    <td>
-      <img height="200" width="200" src="https://cdn.qwiklabs.com/oJ68YJxOAkrezBSWMLSdZpIYgr5Cu5mztWuM1n5in%2Fs%3D"/>
-    </td>
-    <td>
-      <img height="200" width="200" src="https://cdn.qwiklabs.com/xZavqH5WyvMvnACHEpB9r%2FV9qg7J4LHuCY4ckYBQBLQ%3D"/>
-    </td>
- 
- </tr>
-</table>
-
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>

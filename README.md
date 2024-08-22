@@ -33,7 +33,7 @@
 
 
 ### My Digital Garden 🌱
-You can find my blogs at my [Website](explorer-sonu.github.io).
+You can find my blogs at my [Website](https://explorer-sonu.github.io).
 
 
 ### The Developer Dictionary 🌱

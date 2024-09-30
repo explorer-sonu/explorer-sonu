@@ -25,7 +25,7 @@
 👯 I’m looking to collaborate on : <br>
 🤔 I’m looking for help with : new Job / Internship opportunity<br>
 💬 Ask me about : Web Development , HTML , CSS ,  Javascript ,Servlet, JSP, Spring, Spring Boot,  I'll be happy to help<br>
-⚡ Fun fact: ... COding , Reading , Swimming , Singing , Listening music.<br>
+⚡ Fun fact: ... Coding , Reading , Swimming , Singing , Listening music.<br>
 * 😄 Pronouns: He/him
 * Join my [Discord server]() | [Telegram Channel]()
 * 🏠 Hogwarts House: Griffindor

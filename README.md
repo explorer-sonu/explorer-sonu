@@ -1,5 +1,5 @@
 # [Sonu Kumar Sah]( https://explorer-sonu.github.io/)
- Full Satck Web Development | HTML | CSS | Javascript | React Js | Spring | Spring Boot | C | C++ | Python  | AWS
+ Full Satck Web Development | HTML | CSS | Javascript | Java | JDBC | SQL | Servlet | Jsp | Hibernate | Spring | Spring Boot | C | Python 
 
 <p align="center">
 <b><i>Let's connect! Find me on the web.</i></b>

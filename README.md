@@ -20,11 +20,11 @@
 * I am certified in React
 * I'm looking to collaborate on Open source projects.
 * Competitive Programmer 
-🔭 I’m currently working on : HTML , CSS , Bootstrap , Javascript , Python , React , Nodejs , MongoDB , AWS , C++  <br>
+🔭 I’m currently working on :Java, SQL, JDBC, Hibernate, Servlet, JSP, Spring, Spring Boot, HTML , CSS , Bootstrap , Javascript <br>
 🌱 I’m currently learning :  Web development , Ansible , Flutter .<br>
 👯 I’m looking to collaborate on : <br>
 🤔 I’m looking for help with : new Job / Internship opportunity<br>
-💬 Ask me about : Web Development , HTML , CSS ,  Javascript , React , Nodejs , MongoDB , AWS ,  I'll be happy to help<br>
+💬 Ask me about : Web Development , HTML , CSS ,  Javascript ,Servlet, JSP, Spring, Spring Boot,  I'll be happy to help<br>
 ⚡ Fun fact: ... COding , Reading , Swimming , Singing , Listening music.<br>
 * 😄 Pronouns: He/him
 * Join my [Discord server]() | [Telegram Channel]()

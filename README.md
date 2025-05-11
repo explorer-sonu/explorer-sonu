@@ -7,7 +7,7 @@
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
-[<img height="30" src="https://www.linkedin.com/in/sonu-kumar-sah-2b4569325/" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">][Linkedin]
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 <br />
@@ -42,10 +42,9 @@ Check out my latest videos on [YouTube](https://www.youtube.com/channel/UC2UT-qm
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-[twitter]: //https://twitter.com/Sonuanand01
+[twitter]: https://x.com/kumar_sonu75195
 [youtube]: https://www.youtube.com/channel/UC2UT-qm3hoTJmtI-Y360pNA
-[Hashnode]: https://hashnode.com/@Sonuk
 [gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com/in/Sonu_k1/
+[linkedin]: https://www.linkedin.com/in/sonu-kumar-sah-2b4569325/
 [Medium]: https://medium.com/@ssah6477
 [Facebook]: https://www.facebook.com/profile.php?id=100038782760709
